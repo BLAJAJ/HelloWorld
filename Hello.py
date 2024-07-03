@@ -1,1 +1,2 @@
-print('hello wolrd')print('Learning is difficult')
+print('Hello wolrd!')
+print('Learning is difficult')
